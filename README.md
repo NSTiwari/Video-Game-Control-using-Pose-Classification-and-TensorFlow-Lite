@@ -46,9 +46,9 @@ cricket_poses/
 
 6. Install the **PyDirectInput** library using ```pip install PyDirectInput```.
 
-7. Open the ```detect_pose.py``` file and edit **Line 40** by replacing ```<your-tflite-model>``` with the name of your TF Lite model (example: ```pose_classifier.tflite```). Agaon, edit **Line 41** by replacing ```<your-label-file>``` with the name of your label file (example: ```pose_labels.txt```).
+7. Open the ```detect_pose.py``` file and edit **Line 40** by replacing ```<your-tflite-model>``` with the name of your TF Lite model (example: ```pose_classifier.tflite```). Again, edit **Line 41** by replacing ```<your-label-file>``` with the name of your label file (example: ```pose_labels.txt```).
 
-8. Open command prompt and run ```detect_pose.py``` and enjoy playing the Ashes Cricket 2009 game by showing your cricket skills in front of the camera.
+8. Open command prompt and run ```detect_pose.py``` and enjoy playing the Ashes Cricket 2009 game by showing your batting skills in front of the camera.
 
 ## Output:
 
