@@ -11,7 +11,7 @@ Following are the pre-requisites for this project to run.
 
 If you haven't already installed the above entities, kindly do so before moving ahead.
 
-The ```setup.sh``` file will help you download the required libraries and dependencies.
+The ```setup.sh``` file will help you download the required libraries and dependencies. Run it using ```sh setup.sh``` in Git Bash.
 
 Now, one common question that you will likely ask is:
 
