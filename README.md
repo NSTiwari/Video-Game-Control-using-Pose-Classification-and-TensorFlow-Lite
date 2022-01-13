@@ -42,11 +42,13 @@ cricket_poses/
 
 4. Download the ```pose_classifier.tflite``` model ```pose_labels.txt``` label file.
 
-5. Copy the TF Lite model and label files in the repository you download in **Step 1** i.e., inside the ```Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite``` folder.
+5. Copy the TF Lite model and label files in the repository you downloaded at **Step 1** i.e., inside the ```Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite``` folder.
 
 6. Install the **PyDirectInput** library using ```pip install PyDirectInput```.
 
 7. Open the ```detect_pose.py``` file and edit **Line 40** by replacing ```<your-tflite-model>``` with the name of your TF Lite model (example: ```pose_classifier.tflite```). Again, edit **Line 41** by replacing ```<your-label-file>``` with the name of your label file (example: ```pose_labels.txt```).
+
+8. Open the Ashes Cricket 2009 game and change its display settings (```display.opt```) file to windowed mode and preferrably set the resolution to 1024x800.
 
 8. Open command prompt and run ```detect_pose.py``` and enjoy playing the Ashes Cricket 2009 game by showing your batting skills in front of the camera.
 
