@@ -57,6 +57,7 @@ cricket_poses/
 ![GitHub Logo](Output.gif)
 
 ## References and Facts:
-- This project is based on the [Human Pose Classification](www.tensorflow.org/lite/tutorials/pose_classification) tutorial by TensorFlow.
+- This project is based on the [Human Pose Classification](www.tensorflow.org/lite/tutorials/pose_classification) tutorial by TensorFlow on a custom dataset of cricket shots.
 - The [dataset](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/cricket_shots.zip) of the cricket shots - Cover Drive, Leg Glance and Cut were scraped from online sources and processed by various augmentations techniques.
 - The Python file [```detect_pose.py```](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite/blob/main/detect_pose.py) developed by me, detects the pose and classifies the cricket shots and autonomously plays them in the video game.
+- Papers referred: [Cricket Shot Detection from Videos](https://ieeexplore.ieee.org/document/8494081) | [Detection Cricket Shots using Pose Estimation](https://blog.jovian.ai/detecting-cricket-shots-using-pose-estimation-8e69ed12fe98)
