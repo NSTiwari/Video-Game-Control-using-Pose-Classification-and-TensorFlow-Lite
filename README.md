@@ -52,7 +52,7 @@ cricket_poses/
 
 8. Open command prompt and run ```detect_pose.py``` and enjoy playing the Ashes Cricket 2009 game by showing your batting skills in front of the camera.
 
-## Output:
+## Demo Output:
 
 ![GitHub Logo](Output.gif)
 
