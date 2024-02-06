@@ -57,6 +57,7 @@ cricket_poses/
 ![GitHub Logo](Output.gif)
 
 - Watch the full demonstration on [YouTube](https://www.youtube.com/watch?v=Ubov6zZTuzI).
+- The project is featured on [Google Dev Library](https://devlibrary.withgoogle.com/authors/tiwarinitin1999).
 
 ## References and Facts:
 - This project is based on the [Human Pose Classification](www.tensorflow.org/lite/tutorials/pose_classification) tutorial by TensorFlow on a custom dataset of cricket shots.
